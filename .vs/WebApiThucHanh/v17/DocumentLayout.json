@@ -1,0 +1,261 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\controllers\\publishercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\services\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\services\\ilibraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\models\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\models\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\models\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\models\\publishers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|c:\\users\\admin\\documents\\webapithuchanh\\webapithuchanh\\migrations\\20240416030337_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0573C117-D8BB-413F-BCDC-FD1A972EF625}|WebApiThucHanh\\WebApiThucHanh.csproj|solutionrelative:webapithuchanh\\migrations\\20240416030337_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublisherController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Controllers\\PublisherController.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Controllers\\PublisherController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Controllers\\PublisherController.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Controllers\\PublisherController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwEUAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:20:07.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Controllers\\AuthorController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Controllers\\AuthorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:14:47.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Models\\Book.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Models\\Book.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:06:27.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Models\\Author.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Models\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:04:40.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Services\\LibraryService.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Services\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Services\\LibraryService.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Services\\LibraryService.cs",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAAABMBAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:09:05.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Services\\ILibraryService.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Services\\ILibraryService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Services\\ILibraryService.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Services\\ILibraryService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA7wBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:05:36.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Program.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:50:14.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:32:52.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Models\\BookAuthor.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Models\\BookAuthor.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Models\\BookAuthor.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Models\\BookAuthor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:12:45.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Publishers.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Models\\Publishers.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Models\\Publishers.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Models\\Publishers.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Models\\Publishers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T01:31:16.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:16:31.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:36:18.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T02:37:16.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240416030337_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Migrations\\20240416030337_initial.cs",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\Migrations\\20240416030337_initial.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\Migrations\\20240416030337_initial.cs",
+              "RelativeToolTip": "WebApiThucHanh\\Migrations\\20240416030337_initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:03:38.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiThucHanh\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\WebApiThucHanh\\WebApiThucHanh\\appsettings.json",
+              "RelativeToolTip": "WebApiThucHanh\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-16T01:50:14.589Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
